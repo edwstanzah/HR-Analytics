@@ -1,6 +1,4 @@
 # HR-Analytics
-![image](https://user-images.githubusercontent.com/72070253/186106270-d36009ae-6d5e-450f-8093-58467e7a12b3.png)
-
 
 Project Briefs:
 
